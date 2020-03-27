@@ -1,4 +1,4 @@
-<p align="center"><img src="/static/img/viitorcloud.png" width="400"></p>
+<p align="center"><img src="https://github.com/dekts/university-poc/blob/master/public/static/img/viitorcloud.png" width="250"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
